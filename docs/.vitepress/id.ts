@@ -71,6 +71,10 @@ function sidebar() {
                   text: "Regresi Linier Sederhana",
                   link: "/statistics/simple-linear-regression",
               },
+              {
+                  text: "Varians dan Standar Deviasi",
+                  link: "/statistics/variance-standard-deviation",
+              },
           ],
       },
       {

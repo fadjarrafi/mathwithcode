@@ -82,6 +82,10 @@ function sidebar() {
                   text: "Simple Linear Regression",
                   link: "/en/statistics/simple-linear-regression",
               },
+              {
+                  text: "Variance and Standard Deviation",
+                  link: "/statistics/variance-standard-deviation",
+              },
           ],
       },
       {
